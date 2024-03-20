@@ -1,5 +1,3 @@
-console.log('Olá mundo')
-
 const number = 10
 let multipl = 0
 
