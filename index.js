@@ -4,4 +4,5 @@ let multipl = 0
 for(let i = 1 ; i < 11 ; i++)
     {
     multipl=number*i
-    console.log(`${number}X${i}=${multipl}`)}
+    console.log(`${number}X${i}=${multipl}`)
+}
